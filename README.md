@@ -1,6 +1,10 @@
 # ATM
 
 ## Main Functions
-1. Calculate body mass index using a person's height and weight.
-2. Unit conversion (ex: cm <-> ft and kg <-> lb)
-3. Indicate whether a person is underweight, normal, overweight, obese, or extremely obese with a corresponding body picture.
+1. Log into your account.
+2. Check balance.
+3. Deposit money.
+4. Withdraw money.
+5. Transfer money to another account.
+6. Create a new account.
+7. See all the users' account numbers and balances.
